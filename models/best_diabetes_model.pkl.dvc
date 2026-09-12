@@ -1,0 +1,5 @@
+outs:
+- md5: 7649ae7ac0002ad3c0e66cdaa9d6cd94
+  size: 193603
+  hash: md5
+  path: best_diabetes_model.pkl
