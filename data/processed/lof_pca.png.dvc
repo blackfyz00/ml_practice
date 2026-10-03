@@ -1,0 +1,5 @@
+outs:
+- md5: 26e69d96da806b5141229ddb683f32f5
+  size: 45150
+  hash: md5
+  path: lof_pca.png

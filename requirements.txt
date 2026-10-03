@@ -5,4 +5,6 @@ xgboost
 matplotlib
 seaborn
 dvc
+jupyterlab
 pre-commit
+dvc-gdrive
