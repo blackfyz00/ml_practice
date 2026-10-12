@@ -1,0 +1,5 @@
+outs:
+- md5: d05111d06cf5003c4853f7bfcd7bfd56
+  size: 66911
+  hash: md5
+  path: shap_waterfall_obj_27.png

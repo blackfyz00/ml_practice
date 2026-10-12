@@ -1,3 +1,12 @@
 /imputation_histograms.png
 /lof_pca.png
 /final_model_2lab.joblib
+/optuna_history.png
+/optuna_importances.png
+/optuna_plots.png
+/shap_bar.png
+/shap_dependence.png
+/shap_summary.png
+/shap_waterfall_obj_27.png
+/shap_waterfall_obj_52.png
+/shap_waterfall_obj_73.png
